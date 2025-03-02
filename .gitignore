@@ -1,0 +1,5 @@
+.cache/
+.vscode-server/
+.config/
+.local/
+.sudo_as_admin_successful
